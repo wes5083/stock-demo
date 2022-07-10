@@ -1,5 +1,6 @@
 # Back-end is Java Project
 ### 1. the config properties is application.properties,  stocks api service information in this file
+	https://eodhistoricaldata.com/financial-apis/stock-etfs-fundamental-data-feeds/
 
 
 ### 2. access API service as follow:
