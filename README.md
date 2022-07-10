@@ -1,18 +1,18 @@
-# stocks
-
-#Back-end is Java Project
+# Back-end is Java Project
 1. the config properties is application.properties,  stocks rates api service information in this file
 
 
 2. access by url:
 
   All Exchanges: http://localhost:8080/api/stock/exchanges
+  
   All Symbol of exchange: http://localhost:8080/api/stock/exchanges/US
+  
   Stock: http://localhost:8080/api/stock/fundamental/MCD.US
 
 3. jdk8+ must
 
-#Front-end is Reactjs
+# Front-end is Reactjs
 
 1. Node environment is must
 2. yarn install  
