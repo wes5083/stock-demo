@@ -21,3 +21,4 @@
 	start the server
 ### 4. access UI by url:	
 	http://localhost:3000
+![image](https://user-images.githubusercontent.com/67679233/178139362-ba4c41ac-73bb-4cb7-ad7b-5c2d23fa8a89.png)
