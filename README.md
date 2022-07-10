@@ -8,7 +8,8 @@
   
   All Symbol of exchange: http://localhost:8080/api/stock/exchanges/US
   
-  Stock: http://localhost:8080/api/stock/fundamental/{$symbol_code}.{exchange_id} For Example:  http://localhost:8080/api/stock/fundamental/MCD.US
+  Stock: http://localhost:8080/api/stock/fundamental/MCD.US
+  	  MCD.US consists of two parts: {SYMBOL_NAME}.{EXCHANGE_ID}
 
 ### 3. jdk8+ must
 
