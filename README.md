@@ -1,8 +1,8 @@
 # Back-end is Java Project
-1. the config properties is application.properties,  stocks rates api service information in this file
+### 1. the config properties is application.properties,  stocks api service information in this file
 
 
-2. access by url:
+### 2. access API service as follow:
 
   All Exchanges: http://localhost:8080/api/stock/exchanges
   
@@ -10,14 +10,14 @@
   
   Stock: http://localhost:8080/api/stock/fundamental/{$symbol_code}.{exchange_id} For Example:  http://localhost:8080/api/stock/fundamental/MCD.US
 
-3. jdk8+ must
+### 3. jdk8+ must
 
 # Front-end is Reactjs
 
-1. Node environment is must
-2. yarn install  
+### 1. Node environment is must
+### 2. `yarn install`  
 	download the dependences
-3. yarn start   
+### 3. `yarn start`  
 	start the server
-4. access by url:	
+### 4. access UI by url:	
 	http://localhost:3000
